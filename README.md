@@ -2,9 +2,11 @@
 
 This project implements a Marketing Mix Model (MMM) that estimate the contribution of media channels to sales while accounting for adstock and saturation effects. These estimates are then used for budget optimization and forecast sales. 
 
-**Media Channel Variables:** Facebook, Google, Email, Youtube Paid, Youtube Organic, Affiliate 
+**Media Channel Variables:** Facebook, Google, Email, YouTube Paid, YouTube Organic, Affiliate 
 
 **Other Variables:** Division, Week
+
+**Target Variable**: Sales
 
 ## Workflow Overview
 
