@@ -8,7 +8,7 @@ This project implemented a Marketing Mix Model (MMM) to estimate the contributio
 
 **Target Variable**: Sales
 
-## What I did
+## Workflow
 
 **Exploration** - Explored the variables and their distributions
 
