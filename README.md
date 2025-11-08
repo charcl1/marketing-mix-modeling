@@ -1,6 +1,6 @@
 # Marketing Mix Modeling
 
-This project implemented a Marketing Mix Model (MMM) to estimate the contribution of media channels to sales while accounting for adstock and saturation effects. These estimates were then used for budget optimization and forecasting futures sales. 
+This project implements a Marketing Mix Model (MMM) to estimate the contribution of media channels to sales while accounting for adstock and saturation effects. These estimates are then used for budget optimization and forecasting futures sales. 
 
 **Media Channel Variables:** Facebook, Google, Email, YouTube Paid, YouTube Organic, Affiliate 
 
